@@ -1,0 +1,14 @@
+{
+  "name": "ykt-card-auto",
+  "version": "1.0.0",
+  "description": "雨课堂卡片模式作业自动完成工具",
+  "main": "ykt_card_auto.mjs",
+  "type": "module",
+  "bin": {
+    "ykt-card-auto": "./ykt_card_auto.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
